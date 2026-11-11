@@ -26,6 +26,8 @@ CLI-Student-Grade-Calculator/
 ├── students_input.csv
 ├── grade_calculator.py
 ├── grades_report.txt
+├──invalid_marks.csv
+├──missing_column.csv
 └── README.md
 ```
 
