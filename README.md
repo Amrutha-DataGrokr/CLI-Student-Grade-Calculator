@@ -136,6 +136,3 @@ The application handles the following scenarios:
 - Command-line input
 - Working with file paths using `os`
 
-## Author
-
-Developed as a Python fundamentals project to practice file handling, data processing, functions, and exception handling.
