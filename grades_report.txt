@@ -1,0 +1,24 @@
+=======================================================
+               STUDENT GRADE REPORT
+=======================================================
+Name           Average        Grade       Status
+-------------------------------------------------------
+Alice          90.00          A           Pass
+Bob            77.40          C           Pass
+Charlie        60.00          D           Pass
+Diana          96.20          A           Pass
+Ethan          70.00          C           Pass
+Fiona          87.20          B           Pass
+George         50.00          F           Fail
+Hannah         81.80          B           Pass
+=======================================================
+
+CLASS SUMMARY
+-------------------------------------------------------
+Total Students: 8
+Class Average: 76.58
+Highest Average: 96.20
+Lowest Average: 50.00
+Students Passed: 7
+Students Failed: 1
+=======================================================
